@@ -10,5 +10,10 @@
   "sonoglitch": {
     "nombre": "Sonoglitch",
     "texto": "A camera where sound, light and motion distort the photo in real time."
+  },
+  "mochila": {
+    "nombre": "Mochila",
+    "texto": "School messages turned into the family agenda: what to bring, who picks up, activities and payments.",
+    "codigo": false
   }
 }

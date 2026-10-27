@@ -1,11 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="Daniel Mont Ferrandiz. Backend developer. Small, free and open-source apps." width="100%">
+  <img src="banner-light.svg" alt="Daniel Mont Ferrandiz. Backend developer. Small, free apps." width="100%">
 </picture>
 
 I'm a backend developer. In my spare time I build small apps for things that I,
-or people close to me, needed. The ones published here are free and open source:
-no ads, no accounts, and they work offline.
+or people close to me, needed. Most of them are free and open source, with no ads
+and no accounts, and work offline. Mochila is free too, but not open source: it
+needs a small server to read school messages.
 
 Away from code, it's mostly home automation. Almost everything at home ends up
 going through Home Assistant.

@@ -2,7 +2,7 @@
   <rect width="1200" height="240" rx="16" fill="#111318"/>
   <g font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
     <text x="64" y="112" font-size="52" font-weight="700" fill="#F2F2F4" letter-spacing="-0.5">Daniel Mont Ferrandiz</text>
-    <text x="64" y="158" font-size="22" fill="#A6A9B3">Backend developer. Small, free and open-source apps.</text>
+    <text x="64" y="158" font-size="22" fill="#A6A9B3">Backend developer. Small, free apps.</text>
   </g>
   <g transform="translate(64 190)">
     <rect width="48" height="6" rx="3" fill="#2F5D50"/>
