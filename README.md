@@ -18,6 +18,15 @@ going through Home Assistant.
 <tr>
 <td width="50%" valign="top">
 <br>
+<a href="https://github.com/dferrandizmont/mochila"><img src="https://raw.githubusercontent.com/dferrandizmont/mochila/main/docs/readme/icon-512.png" width="56" height="56" alt="Mochila"></a>
+<br><br>
+<b><a href="https://github.com/dferrandizmont/mochila">Mochila</a></b><br>
+School messages turned into the family agenda: what to bring, who picks up, activities and payments.<br><br>
+<sub><a href="https://github.com/dferrandizmont/mochila">Info</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lamochila.app">Website</a></sub>
+<br><br>
+</td>
+<td width="50%" valign="top">
+<br>
 <a href="https://github.com/dferrandizmont/sonoglitch"><img src="https://raw.githubusercontent.com/dferrandizmont/sonoglitch/main/docs/readme/icon-512.png" width="56" height="56" alt="Sonoglitch"></a>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/sonoglitch">Sonoglitch</a></b><br>
@@ -25,6 +34,8 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 <sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download v0.1.0-alpha.19</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a></sub>
 <br><br>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/dferrandizmont/cuadrante"><img src="https://raw.githubusercontent.com/dferrandizmont/cuadrante/main/docs/readme/es/icon-512.png" width="56" height="56" alt="Cuadrante"></a>
@@ -34,8 +45,6 @@ Shift calendar for people who work shifts, with your next shift at a glance.<br>
 <sub><a href="https://github.com/dferrandizmont/cuadrante/releases">Download v0.6.12</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/cuadrante">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/cuadrante/">Website</a></sub>
 <br><br>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/dferrandizmont/ley-al-blanco"><img src="https://raw.githubusercontent.com/dferrandizmont/ley-al-blanco/main/docs/readme/icon-512.png" width="56" height="56" alt="Ley al Blanco"></a>
