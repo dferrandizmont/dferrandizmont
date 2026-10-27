@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" rx="16" fill="#111318"/>
+  <g font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <text x="64" y="112" font-size="52" font-weight="700" fill="#F2F2F4" letter-spacing="-0.5">Daniel Mont Ferrandiz</text>
+    <text x="64" y="158" font-size="22" fill="#A6A9B3">Backend developer. Small, free and open-source apps.</text>
+  </g>
+  <g transform="translate(64 190)">
+    <rect width="48" height="6" rx="3" fill="#2F5D50"/>
+    <rect x="56" width="48" height="6" rx="3" fill="#F5A623"/>
+    <rect x="112" width="48" height="6" rx="3" fill="#4B4FD1"/>
+    <rect x="168" width="48" height="6" rx="3" fill="#B8A3F5"/>
+  </g>
+  <g transform="translate(960 64)" fill="#1E2129">
+    <rect width="32" height="32" rx="8"/><rect x="40" width="32" height="32" rx="8"/><rect x="80" width="32" height="32" rx="8"/>
+    <rect y="40" width="32" height="32" rx="8" fill="#2F5D50"/><rect x="40" y="40" width="32" height="32" rx="8" fill="#F5A623"/><rect x="80" y="40" width="32" height="32" rx="8" fill="#4B4FD1"/>
+    <rect y="80" width="32" height="32" rx="8"/><rect x="40" y="80" width="32" height="32" rx="8"/><rect x="80" y="80" width="32" height="32" rx="8" fill="#B8A3F5"/>
+  </g>
+</svg>
