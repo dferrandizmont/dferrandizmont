@@ -31,7 +31,7 @@ School messages turned into the family agenda: what to bring, who picks up, acti
 <br><br>
 <b><a href="https://github.com/dferrandizmont/sonoglitch">Sonoglitch</a></b><br>
 A camera where sound, light and motion distort the photo in real time.<br><br>
-<sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download v0.1.0-alpha.19</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download v0.1.0-alpha.21</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a></sub>
 <br><br>
 </td>
 </tr>
@@ -42,7 +42,7 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/cuadrante">Cuadrante</a></b><br>
 Shift calendar for people who work shifts, with your next shift at a glance.<br><br>
-<sub><a href="https://github.com/dferrandizmont/cuadrante/releases">Download v0.6.12</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/cuadrante">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/cuadrante/">Website</a></sub>
+<sub><a href="https://github.com/dferrandizmont/cuadrante/releases">Download v0.6.13</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/cuadrante">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/cuadrante/">Website</a></sub>
 <br><br>
 </td>
 <td width="50%" valign="top">
@@ -51,7 +51,7 @@ Shift calendar for people who work shifts, with your next shift at a glance.<br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/ley-al-blanco">Ley al Blanco</a></b><br>
 Study app for Spain's firearms licence theory exam, with all 423 official questions.<br><br>
-<sub><a href="https://github.com/dferrandizmont/ley-al-blanco/releases">Download v0.9.1</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ley-al-blanco">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/ley-al-blanco/releases">Download v0.9.2</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ley-al-blanco">Source</a></sub>
 <br><br>
 </td>
 </tr>
