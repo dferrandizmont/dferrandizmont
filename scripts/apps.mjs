@@ -1,7 +1,7 @@
 // Fills the Apps section of the README with the public repos tagged with the
 // "app" topic. To list a new app, add that topic to its repository.
 //
-// Icon: docs/readme/icon-512.png (or docs/readme/es/icon-512.png) in the repo.
+// Icon: the first of ICON_PATHS that exists in the repo.
 // Name and text: descripciones.json when the app is there; otherwise the repo's
 // name and description.
 import { readFileSync, writeFileSync } from "node:fs";
@@ -9,7 +9,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 const USER = "dferrandizmont";
 const TOPIC = "app";
 const PER_ROW = 2;
-const ICON_PATHS = ["docs/readme/icon-512.png", "docs/readme/es/icon-512.png"];
+const ICON_PATHS = ["docs/readme/icon-512.png", "docs/readme/en/icon-512.png", "docs/readme/es/icon-512.png", "assets/brand/png/icon-1024.png"];
 
 const headers = { Accept: "application/vnd.github+json" };
 if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;

@@ -15,5 +15,9 @@
     "nombre": "Mochila",
     "texto": "School messages turned into the family agenda: what to bring, who picks up, activities and payments.",
     "codigo": false
+  },
+  "ink-lab": {
+    "nombre": "Ink Lab",
+    "texto": "Swatches and palettes for alcohol markers: find the closest marker to a photo and build palettes with the ones you own."
   }
 }
