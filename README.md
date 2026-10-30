@@ -47,11 +47,11 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 </td>
 <td width="50%" valign="top">
 <br>
-<a href="https://github.com/dferrandizmont/cuadrante"><img src="https://raw.githubusercontent.com/dferrandizmont/cuadrante/main/docs/readme/en/icon-512.png" width="56" height="56" alt="Cuadrante"></a>
+<a href="https://github.com/dferrandizmont/turnly"><img src="https://raw.githubusercontent.com/dferrandizmont/turnly/main/docs/readme/en/icon-512.png" width="56" height="56" alt="Turnly"></a>
 <br><br>
-<b><a href="https://github.com/dferrandizmont/cuadrante">Cuadrante</a></b><br>
+<b><a href="https://github.com/dferrandizmont/turnly">Turnly</a></b><br>
 Shift calendar for people who work shifts, with your next shift at a glance.<br><br>
-<sub><a href="https://github.com/dferrandizmont/cuadrante/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/cuadrante">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/turnly/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/turnly">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/turnly/">Website</a></sub>
 <br><br>
 </td>
 </tr>
