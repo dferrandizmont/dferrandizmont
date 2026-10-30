@@ -22,7 +22,7 @@ going through Home Assistant.
 <br><br>
 <b><a href="https://github.com/dferrandizmont/ink-lab">Ink Lab</a></b><br>
 Swatches and palettes for alcohol markers: find the closest marker to a photo and build palettes with the ones you own.<br><br>
-<sub><a href="https://github.com/dferrandizmont/ink-lab/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ink-lab">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/ink-lab/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ink-lab">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://inklab.mainshai.com">Website</a></sub>
 <br><br>
 </td>
 <td width="50%" valign="top">
