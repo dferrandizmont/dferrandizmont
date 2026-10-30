@@ -93,3 +93,5 @@ to [dev@mainshai.com](mailto:dev@mainshai.com).
 The apps are free. If one of them is useful to you and you feel like leaving a tip,
 you can do it on [Ko-fi](https://ko-fi.com/danielmfdev). It's optional and the apps
 stay the same either way.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/danielmfdev)
