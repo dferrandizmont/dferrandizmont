@@ -89,3 +89,7 @@ Study app for Spain's firearms licence theory exam, with all 423 official questi
 
 Found a bug or missing something? Open an issue in the app's repository or write
 to [dev@mainshai.com](mailto:dev@mainshai.com).
+
+The apps are free. If one of them is useful to you and you feel like leaving a tip,
+you can do it on [Ko-fi](https://ko-fi.com/danielmfdev). It's optional and the apps
+stay the same either way.
