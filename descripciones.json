@@ -1,7 +1,8 @@
 {
   "ley-al-blanco": {
     "nombre": "Ley al Blanco",
-    "texto": "Study app for Spain's firearms licence theory exam, with all 423 official questions."
+    "texto": "Study app for Spain's firearms licence theory exam, with all 423 official questions.",
+    "web": true
   },
   "turnly": {
     "nombre": "Turnly",
