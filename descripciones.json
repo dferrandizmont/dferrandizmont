@@ -14,7 +14,8 @@
   "mochila": {
     "nombre": "Mochila",
     "texto": "School messages turned into the family agenda: what to bring, who picks up, activities and payments.",
-    "codigo": false
+    "codigo": false,
+    "web": true
   },
   "ink-lab": {
     "nombre": "Ink Lab",

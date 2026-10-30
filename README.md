@@ -51,7 +51,7 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/turnly">Turnly</a></b><br>
 Shift calendar for people who work shifts, with your next shift at a glance.<br><br>
-<sub><a href="https://github.com/dferrandizmont/turnly/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/turnly">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/turnly/">Website</a></sub>
+<sub><a href="https://github.com/dferrandizmont/turnly/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/turnly">Source</a></sub>
 <br><br>
 </td>
 </tr>
