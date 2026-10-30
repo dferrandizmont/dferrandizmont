@@ -22,7 +22,7 @@ going through Home Assistant.
 <br><br>
 <b><a href="https://github.com/dferrandizmont/ink-lab">Ink Lab</a></b><br>
 Swatches and palettes for alcohol markers: find the closest marker to a photo and build palettes with the ones you own.<br><br>
-<sub><a href="https://github.com/dferrandizmont/ink-lab/releases">Download v0.5.0</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ink-lab">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/ink-lab/">Website</a></sub>
+<sub><a href="https://github.com/dferrandizmont/ink-lab/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ink-lab">Source</a></sub>
 <br><br>
 </td>
 <td width="50%" valign="top">
@@ -42,7 +42,7 @@ School messages turned into the family agenda: what to bring, who picks up, acti
 <br><br>
 <b><a href="https://github.com/dferrandizmont/sonoglitch">Sonoglitch</a></b><br>
 A camera where sound, light and motion distort the photo in real time.<br><br>
-<sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download v0.2.0-alpha.2</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a></sub>
 <br><br>
 </td>
 <td width="50%" valign="top">
@@ -51,7 +51,7 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/cuadrante">Cuadrante</a></b><br>
 Shift calendar for people who work shifts, with your next shift at a glance.<br><br>
-<sub><a href="https://github.com/dferrandizmont/cuadrante/releases">Download v0.6.14</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/cuadrante">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/cuadrante/">Website</a></sub>
+<sub><a href="https://github.com/dferrandizmont/cuadrante/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/cuadrante">Source</a></sub>
 <br><br>
 </td>
 </tr>
@@ -62,7 +62,7 @@ Shift calendar for people who work shifts, with your next shift at a glance.<br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/ley-al-blanco">Ley al Blanco</a></b><br>
 Study app for Spain's firearms licence theory exam, with all 423 official questions.<br><br>
-<sub><a href="https://github.com/dferrandizmont/ley-al-blanco/releases">Download v0.9.3</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ley-al-blanco">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/ley-al-blanco/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ley-al-blanco">Source</a></sub>
 <br><br>
 </td>
 </tr>

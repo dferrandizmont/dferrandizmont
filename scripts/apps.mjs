@@ -42,7 +42,7 @@ for (const r of repos) {
   const [release] = await gh(`/repos/${r.full_name}/releases?per_page=1`);
   const own0 = texts[r.name] ?? {};
   const links = [`<a href="${r.html_url}">${own0.codigo === false ? "Info" : "Source"}</a>`];
-  if (release) links.unshift(`<a href="${r.html_url}/releases">Download ${release.tag_name}</a>`);
+  if (release) links.unshift(`<a href="${r.html_url}/releases">Download</a>`);
   if (r.homepage) links.push(`<a href="${r.homepage}">Website</a>`);
   const own = texts[r.name] ?? {};
   const name = own.nombre ?? r.name.split("-").map((w) => w[0].toUpperCase() + w.slice(1)).join(" ");
