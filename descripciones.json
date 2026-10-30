@@ -21,6 +21,7 @@
   },
   "ink-lab": {
     "nombre": "Ink Lab",
-    "texto": "Swatches and palettes for alcohol markers: find the closest marker to a photo and build palettes with the ones you own."
+    "texto": "Swatches and palettes for alcohol markers: find the closest marker to a photo and build palettes with the ones you own.",
+    "web": true
   }
 }
