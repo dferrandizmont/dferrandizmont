@@ -51,7 +51,7 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/turnly">Turnly</a></b><br>
 Shift calendar for people who work shifts, with your next shift at a glance.<br><br>
-<sub><a href="https://github.com/dferrandizmont/turnly/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/turnly">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dferrandizmont.github.io/turnly/">Website</a></sub>
+<sub><a href="https://github.com/dferrandizmont/turnly/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/turnly">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://turnly.mainshai.com">Website</a></sub>
 <br><br>
 </td>
 </tr>
@@ -62,7 +62,7 @@ Shift calendar for people who work shifts, with your next shift at a glance.<br>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/ley-al-blanco">Ley al Blanco</a></b><br>
 Study app for Spain's firearms licence theory exam, with all 423 official questions.<br><br>
-<sub><a href="https://github.com/dferrandizmont/ley-al-blanco/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ley-al-blanco">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/ley-al-blanco/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ley-al-blanco">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leyalblanco.mainshai.com">Website</a></sub>
 <br><br>
 </td>
 </tr>
