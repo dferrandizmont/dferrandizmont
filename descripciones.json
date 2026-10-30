@@ -10,7 +10,8 @@
   },
   "sonoglitch": {
     "nombre": "Sonoglitch",
-    "texto": "A camera where sound, light and motion distort the photo in real time."
+    "texto": "A camera where sound, light and motion distort the photo in real time.",
+    "web": true
   },
   "mochila": {
     "nombre": "Mochila",
