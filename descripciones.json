@@ -5,7 +5,8 @@
   },
   "turnly": {
     "nombre": "Turnly",
-    "texto": "Shift calendar for people who work shifts, with your next shift at a glance."
+    "texto": "Shift calendar for people who work shifts, with your next shift at a glance.",
+    "web": true
   },
   "sonoglitch": {
     "nombre": "Sonoglitch",
