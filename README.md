@@ -42,7 +42,7 @@ School messages turned into the family agenda: what to bring, who picks up, acti
 <br><br>
 <b><a href="https://github.com/dferrandizmont/sonoglitch">Sonoglitch</a></b><br>
 A camera where sound, light and motion distort the photo in real time.<br><br>
-<sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a></sub>
+<sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://sonoglitch.mainshai.com">Website</a></sub>
 <br><br>
 </td>
 <td width="50%" valign="top">
