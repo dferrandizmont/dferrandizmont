@@ -31,7 +31,7 @@ Swatches and palettes for alcohol markers: find the closest marker to a photo an
 <br><br>
 <b><a href="https://github.com/dferrandizmont/mochila">Mochila</a></b><br>
 School messages turned into the family agenda: what to bring, who picks up, activities and payments.<br><br>
-<sub><a href="https://github.com/dferrandizmont/mochila">Info</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lamochila.app">Website</a></sub>
+<sub><a href="https://github.com/dferrandizmont/mochila/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/mochila">Info</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lamochila.app">Website</a></sub>
 <br><br>
 </td>
 </tr>
