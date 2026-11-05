@@ -42,7 +42,9 @@ for (const r of repos) {
   const [release] = await gh(`/repos/${r.full_name}/releases?per_page=1`);
   const own0 = texts[r.name] ?? {};
   const links = [`<a href="${r.html_url}">${own0.codigo === false ? "Info" : "Source"}</a>`];
-  if (release) links.unshift(`<a href="${r.html_url}/releases">Download</a>`);
+  // "descarga" in descripciones.json overrides the releases page (apps without a public APK).
+  if (own0.descarga) links.unshift(`<a href="${own0.descarga}">Download</a>`);
+  else if (release) links.unshift(`<a href="${r.html_url}/releases">Download</a>`);
   // Only apps marked "web": true; a repo homepage alone (e.g. a Pages privacy site) is not a website.
   if (own0.web === true && r.homepage) links.push(`<a href="${r.homepage}">Website</a>`);
   const own = texts[r.name] ?? {};

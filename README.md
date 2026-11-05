@@ -5,8 +5,8 @@
 
 I'm a backend developer. In my spare time I build small apps for things that I,
 or people close to me, needed. Most of them are free and open source, with no ads
-and no accounts, and work offline. Mochila is free too, but not open source: it
-needs a small server to read school messages.
+and no accounts, and work offline. Mochila is free during its launch, but not
+open source: it needs a small server to read school messages.
 
 Away from code, it's mostly home automation. Almost everything at home ends up
 going through Home Assistant.
@@ -31,7 +31,7 @@ Swatches and palettes for alcohol markers: find the closest marker to a photo an
 <br><br>
 <b><a href="https://github.com/dferrandizmont/mochila">Mochila</a></b><br>
 School messages turned into the family agenda: what to bring, who picks up, activities and payments.<br><br>
-<sub><a href="https://github.com/dferrandizmont/mochila/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/mochila">Info</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lamochila.app">Website</a></sub>
+<sub><a href="https://play.google.com/apps/testing/es.lamochila.app">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/mochila">Info</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lamochila.app">Website</a></sub>
 <br><br>
 </td>
 </tr>

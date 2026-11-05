@@ -18,7 +18,8 @@
     "nombre": "Mochila",
     "texto": "School messages turned into the family agenda: what to bring, who picks up, activities and payments.",
     "codigo": false,
-    "web": true
+    "web": true,
+    "descarga": "https://play.google.com/apps/testing/es.lamochila.app"
   },
   "ink-lab": {
     "nombre": "Ink Lab",
