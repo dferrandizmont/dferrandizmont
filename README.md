@@ -18,6 +18,15 @@ going through Home Assistant.
 <tr>
 <td width="50%" valign="top">
 <br>
+<a href="https://github.com/dferrandizmont/gift-huddle"><img src="https://raw.githubusercontent.com/dferrandizmont/gift-huddle/main/docs/readme/icon-512.png" width="56" height="56" alt="Gift Huddle"></a>
+<br><br>
+<b><a href="https://github.com/dferrandizmont/gift-huddle">Gift Huddle</a></b><br>
+The family gift list: who gives what, occasions with a countdown and end-to-end encrypted sync between phones.<br><br>
+<sub><a href="https://play.google.com/apps/testing/es.gifthuddle.app">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/gift-huddle">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://gifthuddle.app">Website</a></sub>
+<br><br>
+</td>
+<td width="50%" valign="top">
+<br>
 <a href="https://github.com/dferrandizmont/ink-lab"><img src="https://raw.githubusercontent.com/dferrandizmont/ink-lab/main/assets/brand/png/icon-1024.png" width="56" height="56" alt="Ink Lab"></a>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/ink-lab">Ink Lab</a></b><br>
@@ -25,6 +34,8 @@ Swatches and palettes for alcohol markers: find the closest marker to a photo an
 <sub><a href="https://github.com/dferrandizmont/ink-lab/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/ink-lab">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://inklab.mainshai.com">Website</a></sub>
 <br><br>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/dferrandizmont/mochila"><img src="https://raw.githubusercontent.com/dferrandizmont/mochila/main/docs/readme/icon-512.png" width="56" height="56" alt="Mochila"></a>
@@ -34,8 +45,6 @@ School messages turned into the family agenda: what to bring, who picks up, acti
 <sub><a href="https://play.google.com/apps/testing/es.lamochila.app">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/mochila">Info</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lamochila.app">Website</a></sub>
 <br><br>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/dferrandizmont/sonoglitch"><img src="https://raw.githubusercontent.com/dferrandizmont/sonoglitch/main/docs/readme/icon-512.png" width="56" height="56" alt="Sonoglitch"></a>
@@ -45,6 +54,8 @@ A camera where sound, light and motion distort the photo in real time.<br><br>
 <sub><a href="https://github.com/dferrandizmont/sonoglitch/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/sonoglitch">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://sonoglitch.mainshai.com">Website</a></sub>
 <br><br>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/dferrandizmont/turnly"><img src="https://raw.githubusercontent.com/dferrandizmont/turnly/main/docs/readme/en/icon-512.png" width="56" height="56" alt="Turnly"></a>
@@ -54,8 +65,6 @@ Shift calendar for people who work shifts, with your next shift at a glance.<br>
 <sub><a href="https://github.com/dferrandizmont/turnly/releases">Download</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/dferrandizmont/turnly">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://turnly.mainshai.com">Website</a></sub>
 <br><br>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/dferrandizmont/ley-al-blanco"><img src="https://raw.githubusercontent.com/dferrandizmont/ley-al-blanco/main/docs/readme/icon-512.png" width="56" height="56" alt="Ley al Blanco"></a>
