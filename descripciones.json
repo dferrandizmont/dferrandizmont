@@ -25,5 +25,11 @@
     "nombre": "Ink Lab",
     "texto": "Swatches and palettes for alcohol markers: find the closest marker to a photo and build palettes with the ones you own.",
     "web": true
+  },
+  "gift-huddle": {
+    "nombre": "Gift Huddle",
+    "texto": "The family gift list: who gives what, occasions with a countdown and end-to-end encrypted sync between phones.",
+    "web": true,
+    "descarga": "https://play.google.com/apps/testing/es.gifthuddle.app"
   }
 }
