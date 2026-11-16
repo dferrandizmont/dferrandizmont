@@ -31,5 +31,10 @@
     "texto": "The family gift list: who gives what, occasions with a countdown and end-to-end encrypted sync between phones.",
     "web": true,
     "descarga": "https://play.google.com/apps/testing/es.gifthuddle.app"
+  },
+  "diapo": {
+    "nombre": "Diapo",
+    "texto": "A film camera with a live viewfinder: pick a film, shoot a roll that develops later, or use a disposable. No network, photos never leave the phone.",
+    "web": true
   }
 }

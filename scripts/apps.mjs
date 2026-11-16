@@ -9,7 +9,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 const USER = "dferrandizmont";
 const TOPIC = "app";
 const PER_ROW = 2;
-const ICON_PATHS = ["docs/readme/icon-512.png", "docs/readme/en/icon-512.png", "docs/readme/es/icon-512.png", "assets/brand/png/icon-1024.png"];
+const ICON_PATHS = ["docs/readme/icon-512.png", "docs/readme/en/icon-512.png", "docs/readme/es/icon-512.png", "assets/brand/png/icon-1024.png", "docs/store/icon-512.png"];
 
 const headers = { Accept: "application/vnd.github+json" };
 if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
