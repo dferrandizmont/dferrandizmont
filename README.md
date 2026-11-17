@@ -18,7 +18,7 @@ going through Home Assistant.
 <tr>
 <td width="50%" valign="top">
 <br>
-<a href="https://github.com/dferrandizmont/diapo"><img src="https://opengraph.githubassets.com/1/dferrandizmont/diapo" width="56" height="56" alt="Diapo"></a>
+<a href="https://github.com/dferrandizmont/diapo"><img src="https://raw.githubusercontent.com/dferrandizmont/diapo/main/docs/readme/icon-512.png" width="56" height="56" alt="Diapo"></a>
 <br><br>
 <b><a href="https://github.com/dferrandizmont/diapo">Diapo</a></b><br>
 A film camera with a live viewfinder: pick a film, shoot a roll that develops later, or use a disposable. No network, photos never leave the phone.<br><br>
